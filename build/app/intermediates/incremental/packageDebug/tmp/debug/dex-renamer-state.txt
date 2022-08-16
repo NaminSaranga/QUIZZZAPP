@@ -1,0 +1,4 @@
+#Tue Aug 16 20:06:20 IST 2022
+base.0=D\:\\4-2 sem\\CTSE_2022\\Project\\quizzzapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

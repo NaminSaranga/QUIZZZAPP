@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+flutterapp/sliit/ctse_quiz_app/BuildConfig.java
+ flutterapp.sliit.ctse_quiz_app.BuildConfig
+flutterapp/sliit/ctse_quiz_app/MainActivity.java
+ flutterapp.sliit.ctse_quiz_app.MainActivity
